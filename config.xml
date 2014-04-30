@@ -1,17 +1,20 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns = "http://www.w3.org/ns/widgets"
-    xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.phonegap.example"
-    version   = "1.0.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "org.coenraets.employeedirectory"
+        versionCode="10"
+        version   = "1.1.0">
 
-<name>PhoneGap Build Application</name>
+    <!-- versionCode is optional and Android only -->
 
-<description>
-A simple PhoneGap Build application.
-</description>
+    <name>Employee Directory</name>
 
-<author href="https://example.com" email="you@example.com">
-Your Name
-</author>
+    <description>
+        A simple employee directory application
+    </description>
+
+    <author href="http://coenraets.org" email="ccoenraets@gmail.com">
+        Christophe Coenraets
+    </author>
 
 </widget>
